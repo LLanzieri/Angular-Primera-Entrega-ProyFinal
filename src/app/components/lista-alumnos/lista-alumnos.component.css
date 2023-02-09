@@ -1,0 +1,19 @@
+.alumnoAprobado{ 
+    color: green;
+    width: 15%;
+    text-align: center;
+    
+}
+
+.alumnoDesaprobado{
+   color: red;
+    width: 15%;
+    text-align: center;
+    
+}
+
+.btn-container{
+    /* border: 1px solid blue; */
+    margin: 10px 0; 
+    text-align: center;   
+}
